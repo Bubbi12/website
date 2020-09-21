@@ -23,7 +23,9 @@ bio: My research interests include statistical modeling, forecast and control.
 interests:
 - Energy
 - Statistical modeling and forecast
-- Model Predictive Control
+- Model predictive control
+- Time series
+- Optimization
 
 education:
   courses:
